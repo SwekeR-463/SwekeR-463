@@ -1,5 +1,3 @@
-## About Me
-
 Learning ML & DL with a focus on NLP, LLM & GenAI.
 
 <p align="center">
