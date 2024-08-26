@@ -4,7 +4,7 @@ Learning ML & DL with a focus on CV & NLP.
   <img src="https://media1.tenor.com/m/vaaedZVGk3cAAAAC/narutovsmadara.gif" alt="Naruto GIF">
 </p>
 
-<h1>Tech Stack</h1>
+<h1>Tech-Stack</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
