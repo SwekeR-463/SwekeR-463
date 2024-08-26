@@ -2,6 +2,10 @@
 
 Learning ML & DL with a focus on NLP, LLM & GenAI.
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/vaaedZVGk3cAAAAC/narutovsmadara.gif" alt="Naruto GIF">
+</p>
+
 ## Tech Stack
 
 <p align="left">
@@ -17,6 +21,8 @@ Learning ML & DL with a focus on NLP, LLM & GenAI.
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Gradio-1F8ACB?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/XGBoost-FF7F00?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-00A65A?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
 </p>
 
 
