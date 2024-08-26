@@ -1,10 +1,10 @@
-Learning ML & DL with a focus on NLP, LLM & GenAI.
+Learning ML & DL with a focus on CV & NLP.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/vaaedZVGk3cAAAAC/narutovsmadara.gif" alt="Naruto GIF">
 </p>
 
-## Tech Stack
+<h1>Tech Stack</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -24,7 +24,7 @@ Learning ML & DL with a focus on NLP, LLM & GenAI.
 </p>
 
 
-## Contact
+<h1>Contact</h1>
 
 - <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">: [Twitter Profile](https://x.com/paneerchilli65)
 - <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">: [Kaggle Profile](https://www.kaggle.com/swekerr)
