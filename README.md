@@ -22,5 +22,5 @@ Learning ML & DL with a focus on NLP, LLM & GenAI.
 
 ## Contact
 
-- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">: [@paneerchilli65](https://x.com/paneerchilli65)
+- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">: [Twitter Profile](https://x.com/paneerchilli65)
 - <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">: [Kaggle Profile](https://www.kaggle.com/swekerr)
