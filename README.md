@@ -1,4 +1,4 @@
-Learning ML & DL with a focus on CV & NLP.
+Learning ML with a focus on NLP.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/vaaedZVGk3cAAAAC/narutovsmadara.gif" alt="Naruto GIF">
