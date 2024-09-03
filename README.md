@@ -1,4 +1,4 @@
-Learning ML with a focus on NLP.
+Learning ML with a focus in NLP.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/vaaedZVGk3cAAAAC/narutovsmadara.gif" alt="Naruto GIF">
