@@ -9,6 +9,26 @@ I'm currently working ai agents, backend, classical ML, LLMs, LLMs optimization,
 
 
 
+
+
+
+
+## Timeline
+
+<img width="3072" height="1492" alt="github-timeline-SwekeR-463-1769594941649" src="https://github.com/user-attachments/assets/a2c5d41d-071a-4389-8dc8-de1cc48db994" />
+
+
+
+## Stats
+
+<img width="2560" height="1044" alt="image" src="https://github.com/user-attachments/assets/54498514-5a80-44ed-add9-75a05b659b21" />
+
+
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=SwekeR-463&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
