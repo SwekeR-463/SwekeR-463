@@ -19,10 +19,6 @@ I'm currently working ai agents, backend, classical ML, LLMs, LLMs optimization,
 
 
 
-## Stats
-
-<img width="2560" height="1044" alt="image" src="https://github.com/user-attachments/assets/54498514-5a80-44ed-add9-75a05b659b21" />
-
 
 
 
