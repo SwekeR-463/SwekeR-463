@@ -1,4 +1,4 @@
-I'm currently working ai agents, backend, classical ML, LLMs, LLMs optimization, ML Systems, RL for LLMs.
+I'm currently working on ai agents, backend, classical ML, LLMs, LLMs optimization, ML Systems, RL for LLMs.
 
 
 ## Socials:
