@@ -6,7 +6,7 @@ I'm currently working on ai agents, backend, classical ML, LLMs, LLMs optimizati
 
 
 
-<img width="3072" height="1492" alt="github-timeline-SwekeR-463-1769594941649" src="https://github.com/user-attachments/assets/a2c5d41d-071a-4389-8dc8-de1cc48db994" />
+<img width="3072" height="1492" alt="image" src="https://github.com/user-attachments/assets/045a34b7-1b94-4905-99da-4c57a90d6a63" />
 
 
 
